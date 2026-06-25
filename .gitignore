@@ -3,3 +3,6 @@ dist/
 .DS_Store
 *.log
 .vite/
+
+# Źródłowe archiwum assetów Kenneya (rozpakowane w assets/kenney_simple-space/)
+*.zip
