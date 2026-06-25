@@ -1,0 +1,17 @@
+{
+  "name": "ostatnia-tarcza",
+  "version": "0.1.0",
+  "description": "Ostatnia Tarcza — kosmiczna strzelanka 2D w obronie Ziemi (Phaser 3 + Vite)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "phaser": "^3.88.0"
+  }
+}
